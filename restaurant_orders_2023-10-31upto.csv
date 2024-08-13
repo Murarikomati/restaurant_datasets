@@ -1,0 +1,13 @@
+OrderID,CustomerName,Item,Quantity,Price,OrderDate
+21,John Doe,Pasta,2.0,15.0,2023-10-01
+22,Alice Brown,Burger,3.0,8.5,2023-10-02
+23,Michael Johnson,Soda,1.0,1.5,2023-10-03
+24,Jane Smith,Pizza,2.0,12.0,2023-10-04
+25,Emily Davis,Fries,2.0,4.5,2023-10-05
+26,John Doe,Salad,1.0,7.0,2023-10-06
+27,Alice Brown,Pasta,1.0,15.0,2023-10-07
+28,Michael Johnson,Burger,2.0,8.5,2023-10-08
+29,,Pizza,,12.0,2023-10-09
+30,John Doe,,2.0,12.0,2023-10-10
+31,Emily Davis,Fries,1.0,4.5,2023-10-11
+32,John Doe,,1.0,,2023-10-12

@@ -1,0 +1,8 @@
+OrderID,CustomerName,Item,Quantity,Price,OrderDate
+1,John Doe,Pizza,1.0,12.0,2024-08-10
+2,Jane Smith,Burger,2.0,8.5,2024-08-10
+3,,Soda,1.0,1.5,2024-08-10
+4,Alice Brown,Pasta,3.0,15.0,2024-08-10
+5,John Doe,Pizza,1.0,12.0,2024-08-10
+6,Alice Brown,Salad,,7.0,2024-08-10
+1,John Doe,Pizza,1.0,12.0,2024-08-10
